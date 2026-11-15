@@ -1,0 +1,647 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Global Central Banks//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Global Central Banks
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Official BOJ ECB BOE BOC policy schedules. No Fed events.
+BEGIN:VEVENT
+UID:boc-decision-2026-12-09@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20261209T144500Z
+DTEND:20261209T150000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-01-27@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270127T144500Z
+DTEND:20270127T150000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-03-03@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270303T144500Z
+DTEND:20270303T150000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-04-28@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270428T134500Z
+DTEND:20270428T140000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-06-02@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270602T134500Z
+DTEND:20270602T140000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-07-21@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270721T134500Z
+DTEND:20270721T140000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-09-08@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270908T134500Z
+DTEND:20270908T140000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-10-27@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271027T134500Z
+DTEND:20271027T140000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc-decision-2027-12-08@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271208T144500Z
+DTEND:20271208T150000Z
+SUMMARY:BOC Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofcanada.ca/co
+ re-functions/monetary-policy/key-interest-rate/\nTiming: https://www.banko
+ fcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rat
+ e-announcements-other-major-publications/\nVerify official updates before 
+ trading.
+URL:https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest
+ -rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2026-12-17@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20261217T120000Z
+DTEND:20261217T121500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-02-04@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270204T120000Z
+DTEND:20270204T121500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-03-18@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270318T120000Z
+DTEND:20270318T121500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-04-29@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270429T110000Z
+DTEND:20270429T111500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-06-17@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270617T110000Z
+DTEND:20270617T111500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-07-29@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270729T110000Z
+DTEND:20270729T111500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-09-16@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270916T110000Z
+DTEND:20270916T111500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-11-04@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271104T120000Z
+DTEND:20271104T121500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-decision-2027-12-16@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271216T120000Z
+DTEND:20271216T121500Z
+SUMMARY:BOE Rate Decision & Minutes
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.bankofengland.co.u
+ k/monetary-policy/upcoming-mpc-dates\nTiming: https://www.bankofengland.co
+ .uk/monetary-policy\nVerify official updates before trading.
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2026-12-18@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-01-22@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-03-18@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-04-28@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-06-11@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-07-22@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-09-22@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-10-29@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boj-decision-2027-12-17@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:BOJ Rate Decision (Japan date - time TBD)
+DESCRIPTION:Meeting end date in Japan. No fixed release time. In New York\,
+  the decision may arrive the previous evening or overnight.\nOfficial sche
+ dule: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nTiming: https:
+ //www.boj.or.jp/en/mopo/mpmsche_minu/index.htm\nVerify official updates be
+ fore trading.
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2026-12-17@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20261217T131500Z
+DTEND:20261217T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2026-12-17@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20261217T134500Z
+DTEND:20261217T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-02-04@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270204T131500Z
+DTEND:20270204T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-02-04@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270204T134500Z
+DTEND:20270204T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-03-18@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270318T131500Z
+DTEND:20270318T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-03-18@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270318T134500Z
+DTEND:20270318T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-04-29@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270429T121500Z
+DTEND:20270429T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-04-29@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270429T124500Z
+DTEND:20270429T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-06-10@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270610T121500Z
+DTEND:20270610T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-06-10@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270610T124500Z
+DTEND:20270610T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-07-22@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270722T121500Z
+DTEND:20270722T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-07-22@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270722T124500Z
+DTEND:20270722T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-09-09@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270909T121500Z
+DTEND:20270909T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-09-09@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20270909T124500Z
+DTEND:20270909T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-10-28@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271028T121500Z
+DTEND:20271028T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-10-28@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271028T124500Z
+DTEND:20271028T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2027-12-16@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271216T131500Z
+DTEND:20271216T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2027-12-16@global-central-banks
+DTSTAMP:20261115T000000Z
+DTSTART:20271216T134500Z
+DTEND:20271216T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
