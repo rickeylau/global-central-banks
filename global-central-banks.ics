@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Official BOJ ECB BOE BOC policy schedules. No Fed events.
 BEGIN:VEVENT
 UID:boc-decision-2026-12-09@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20261209T144500Z
 DTEND:20261209T150000Z
 SUMMARY:BOC Rate Decision
@@ -23,7 +23,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-01-27@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270127T144500Z
 DTEND:20270127T150000Z
 SUMMARY:BOC Rate Decision
@@ -39,7 +39,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-03-03@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270303T144500Z
 DTEND:20270303T150000Z
 SUMMARY:BOC Rate Decision
@@ -55,7 +55,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-04-28@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270428T134500Z
 DTEND:20270428T140000Z
 SUMMARY:BOC Rate Decision
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-06-02@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270602T134500Z
 DTEND:20270602T140000Z
 SUMMARY:BOC Rate Decision
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-07-21@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270721T134500Z
 DTEND:20270721T140000Z
 SUMMARY:BOC Rate Decision
@@ -103,7 +103,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-09-08@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270908T134500Z
 DTEND:20270908T140000Z
 SUMMARY:BOC Rate Decision
@@ -119,7 +119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-10-27@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271027T134500Z
 DTEND:20271027T140000Z
 SUMMARY:BOC Rate Decision
@@ -135,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boc-decision-2027-12-08@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271208T144500Z
 DTEND:20271208T150000Z
 SUMMARY:BOC Rate Decision
@@ -151,7 +151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2026-12-17@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20261217T120000Z
 DTEND:20261217T121500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-02-04@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270204T120000Z
 DTEND:20270204T121500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -177,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-03-18@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270318T120000Z
 DTEND:20270318T121500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -190,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-04-29@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270429T110000Z
 DTEND:20270429T111500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-06-17@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270617T110000Z
 DTEND:20270617T111500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -216,7 +216,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-07-29@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270729T110000Z
 DTEND:20270729T111500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -229,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-09-16@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270916T110000Z
 DTEND:20270916T111500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -242,7 +242,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-11-04@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271104T120000Z
 DTEND:20271104T121500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -255,7 +255,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boe-decision-2027-12-16@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271216T120000Z
 DTEND:20271216T121500Z
 SUMMARY:BOE Rate Decision & Minutes
@@ -268,7 +268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2026-12-18@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -282,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-01-22@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -296,7 +296,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-03-18@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -310,7 +310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-04-28@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -324,7 +324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-06-11@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -338,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-07-22@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -352,7 +352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-09-22@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -366,7 +366,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-10-29@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -380,7 +380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boj-decision-2027-12-17@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART;VALUE=DATE:20271217
 DTEND;VALUE=DATE:20271218
 SUMMARY:BOJ Rate Decision (Japan date - time TBD)
@@ -394,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2026-12-17@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20261217T131500Z
 DTEND:20261217T133000Z
 SUMMARY:ECB Rate Decision
@@ -408,7 +408,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2026-12-17@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20261217T134500Z
 DTEND:20261217T140000Z
 SUMMARY:ECB Press Conference
@@ -422,7 +422,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-02-04@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270204T131500Z
 DTEND:20270204T133000Z
 SUMMARY:ECB Rate Decision
@@ -436,7 +436,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-02-04@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270204T134500Z
 DTEND:20270204T140000Z
 SUMMARY:ECB Press Conference
@@ -450,7 +450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-03-18@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270318T131500Z
 DTEND:20270318T133000Z
 SUMMARY:ECB Rate Decision
@@ -464,7 +464,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-03-18@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270318T134500Z
 DTEND:20270318T140000Z
 SUMMARY:ECB Press Conference
@@ -478,7 +478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-04-29@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270429T121500Z
 DTEND:20270429T123000Z
 SUMMARY:ECB Rate Decision
@@ -492,7 +492,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-04-29@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270429T124500Z
 DTEND:20270429T130000Z
 SUMMARY:ECB Press Conference
@@ -506,7 +506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-06-10@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270610T121500Z
 DTEND:20270610T123000Z
 SUMMARY:ECB Rate Decision
@@ -520,7 +520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-06-10@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270610T124500Z
 DTEND:20270610T130000Z
 SUMMARY:ECB Press Conference
@@ -534,7 +534,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-07-22@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270722T121500Z
 DTEND:20270722T123000Z
 SUMMARY:ECB Rate Decision
@@ -548,7 +548,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-07-22@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270722T124500Z
 DTEND:20270722T130000Z
 SUMMARY:ECB Press Conference
@@ -562,7 +562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-09-09@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270909T121500Z
 DTEND:20270909T123000Z
 SUMMARY:ECB Rate Decision
@@ -576,7 +576,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-09-09@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20270909T124500Z
 DTEND:20270909T130000Z
 SUMMARY:ECB Press Conference
@@ -590,7 +590,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-10-28@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271028T121500Z
 DTEND:20271028T123000Z
 SUMMARY:ECB Rate Decision
@@ -604,7 +604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-10-28@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271028T124500Z
 DTEND:20271028T130000Z
 SUMMARY:ECB Press Conference
@@ -618,7 +618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-decision-2027-12-16@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271216T131500Z
 DTEND:20271216T133000Z
 SUMMARY:ECB Rate Decision
@@ -632,9 +632,233 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb-press-2027-12-16@global-central-banks
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261115T100349Z
 DTSTART:20271216T134500Z
 DTEND:20271216T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-02-03@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280203T131500Z
+DTEND:20280203T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-02-03@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280203T134500Z
+DTEND:20280203T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-03-23@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280323T131500Z
+DTEND:20280323T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-03-23@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280323T134500Z
+DTEND:20280323T140000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-05-04@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280504T121500Z
+DTEND:20280504T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-05-04@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280504T124500Z
+DTEND:20280504T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-06-08@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280608T121500Z
+DTEND:20280608T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-06-08@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280608T124500Z
+DTEND:20280608T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-07-20@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280720T121500Z
+DTEND:20280720T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-07-20@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280720T124500Z
+DTEND:20280720T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-09-07@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280907T121500Z
+DTEND:20280907T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-09-07@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20280907T124500Z
+DTEND:20280907T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-10-12@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20281012T121500Z
+DTEND:20281012T123000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-10-12@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20281012T124500Z
+DTEND:20281012T130000Z
+SUMMARY:ECB Press Conference
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-decision-2028-12-07@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20281207T131500Z
+DTEND:20281207T133000Z
+SUMMARY:ECB Rate Decision
+DESCRIPTION:Scheduled standard local release time\; 15-minute display block
+ \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
+ s/calendars/mgcgc/html/index.en.html\nTiming: https://www.ecb.europa.eu/pr
+ ess/govcdec/mopo/html/index.en.html\nVerify official updates before tradin
+ g.
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-press-2028-12-07@global-central-banks
+DTSTAMP:20261115T100349Z
+DTSTART:20281207T134500Z
+DTEND:20281207T140000Z
 SUMMARY:ECB Press Conference
 DESCRIPTION:Scheduled standard local release time\; 15-minute display block
  \, not actual duration.\nOfficial schedule: https://www.ecb.europa.eu/pres
