@@ -1,0 +1,42 @@
+
+name: Update Global Central Banks
+on:
+  schedule:
+    - cron: '53 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: global-central-banks-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
+      - name: Test calendar
+        run: python -m unittest -v
+
+      - name: Fetch and generate calendar
+        run: python central_banks.py
+
+      - name: Publish calendar
+        run: |
+          set -eu
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dates.json global-central-banks.ics
+          if git diff --cached --quiet; then
+            echo 'No calendar changes.'
+            exit 0
+          fi
+          git commit -m 'Update global central banks calendar'
+          git push
